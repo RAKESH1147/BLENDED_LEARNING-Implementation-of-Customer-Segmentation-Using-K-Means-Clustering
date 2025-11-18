@@ -42,8 +42,8 @@ Examine and visualize the resulting clusters to interpret patterns and relations
 ## Program:
 ```
 Program to implement customer segmentation using K-Means clustering on the Mall Customers dataset.
-Developed by: Jayaganapathi S
-RegisterNumber: 212224040133
+Developed by: Rakesh K S
+RegisterNumber: 212224040264
 
 import pandas as pd
 import matplotlib.pyplot as plt
